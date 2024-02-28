@@ -6,7 +6,6 @@ From the flight paths of aeronautics to the cloud paths of AWS, my journey has b
 - 🛩️ Once an Aeronautical Engineer, I found my true calling in the cloud, not the skies.
 - 👨‍💻 Coding was once my adversary; now, we're allies thanks to intuitive tools and AI companions which increases my productivity.
 - 🎓 Master's in Information Assurance led me to the vast and ever-evolving field of Cloud Security.
-- 💼 My professional toolkit includes Terraform, Python, AWS CDK, and TypeScript, sharpened on the grindstone of necessity.
 
 ## My Interests 🤖
 - 🏡 A simple fascination with smart plugs sparked a full-blown passion for smart home automation.
