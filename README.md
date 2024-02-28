@@ -14,6 +14,11 @@ From the flight paths of aeronautics to the cloud paths of AWS, my journey has b
 - 📰 I consume the latest in tech and security through prolific reading on Medium and watching innovators on YouTube.
 - 📺 Attuned to the pulse of innovation by following expos like CES, I stay at the cutting edge of smart home tech.
 
+## Tech Stack
+
+<!-- https://github.com/Ileriayo/markdown-badges -->
+<img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Google%20Cloud%20-%234285F4.svg?&style=for-the-badge&logo=google-cloud&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/azure%20-%230072C6.svg?&style=for-the-badge&logo=azure-devops&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
 ## My Values 🔑
 - 🛡️ Security as a priority.
 - 🚀 Embracing automation, whether it's for writing secure code or watering the lawn.
