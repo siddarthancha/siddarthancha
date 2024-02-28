@@ -19,7 +19,7 @@ From the flight paths of aeronautics to the cloud paths of AWS, my journey has b
 <img src="https://img.shields.io/badge/AWS%20-%23FF9900.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 ## Certifications
-<a href="https://www.credly.com/badges/b1268140-4b5e-42c5-ac3d-113c2036d7cd/public_url" target="_blank"><img src="https://assets.marcolancini.it/hotlink-ok/personal/certifications/aws_csa.png" class="cert" alt='AWS CSA' width="80px"></a>
+<a href="https://www.credly.com/badges/8e983778-906c-4fc1-a039-a862db1978f6/public_url" target="_blank"><img src="https://sai-ancha-assets.s3.amazonaws.com/practitioner.png" class="cert" alt='AWS CSA' width="80px"></a>
 <a href="https://www.credly.com/badges/2fa9d721-9382-4f70-acf8-7805178cc559/public_url" target="_blank"><img src="https://sai-ancha-assets.s3.amazonaws.com/security.png" class="cert" alt='AWS SCS' width="80px"></a>
 
 ## My Values 🔑
