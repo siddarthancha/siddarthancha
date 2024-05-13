@@ -1,6 +1,5 @@
 # Hello World, I'm Sai Ancha 👋
 
-
 From the flight paths of aeronautics to the cloud paths of AWS, my journey has been anything but conventional. I'm a Cloud Security Engineer with an unexpected affection for code and a master's degree in Information Assurance.
 
 
