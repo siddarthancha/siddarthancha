@@ -2,7 +2,6 @@
 
 From the flight paths of aeronautics to the cloud paths of AWS, my journey has been anything but conventional. I'm a Cloud Security Engineer with an unexpected affection for code and a master's degree in Information Assurance.
 
-
 ## My Journey 🛤️
 - 🛩️ Once an Aeronautical Engineer, I found my true calling in the cloud, not the skies.
 - 👨‍💻 Coding was once my adversary; now, we're allies thanks to intuitive tools and AI companions which increases my productivity.
@@ -35,8 +34,9 @@ From the flight paths of aeronautics to the cloud paths of AWS, my journey has b
 I’m on the lookout for collaboration in projects that push the boundaries of cloud security and smart home automation. If you’re working on something exciting, I'd love to hear and work and help with it!
 
 ## Stay in Touch 📬
-- Let's connect on [LinkedIn](#) and exchange ideas on [Twitter](#).
-- 💡 Got a smart home challenge or a cloud security query? I'm all ears!
+Feel free to reach out if you want to discuss technology, smart home innovations, or just want to share dog photos!
 
-<!-- Feel free to reach out if you want to discuss technology, smart home innovations, or just want to share dog photos! -->
+    📧 Email: saisiddarth.ancha21@gmail.com
+    🐦 X: @SiddarthAncha21
+
 
