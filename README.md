@@ -35,7 +35,7 @@ From the flight paths of aeronautics to the cloud paths of AWS, my journey has b
 I’m on the lookout for collaboration in projects that push the boundaries of cloud security and smart home automation. If you’re working on something exciting, I'd love to hear and work and help with it!
 
 ## Stay in Touch 📬
-Feel free to reach out if you want to discuss technology, smart home innovations, or just want to share dog photos!
+Feel free to reach out if you want to discuss technology, smart home innovations.
 
  📧 Email: saisiddarth.ancha21@gmail.com
  🐦 X (formerly Twitter): @SiddarthAncha21
