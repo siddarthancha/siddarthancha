@@ -35,6 +35,7 @@ I’m on the lookout for collaboration in projects that push the boundaries of c
 
 ## Stay in Touch 📬
 Feel free to reach out if you want to discuss technology, smart home innovations, or just want to share dog photos!
+
  📧 Email: saisiddarth.ancha21@gmail.com
  🐦 X (formerly Twitter): @SiddarthAncha21
 
