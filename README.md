@@ -2,6 +2,8 @@
 
 From the flight paths of aeronautics to the cloud paths of AWS, my journey has been anything but conventional. I'm a Cloud Security Engineer with an unexpected affection for code and a master's degree in Information Assurance.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=siddarthancha)](https://github.com/anuraghazra/github-readme-stats)
+
 ## My Journey 🛤️
 - 🛩️ Once an Aeronautical Engineer, I found my true calling in the cloud, not the skies.
 - 👨‍💻 Coding was once my adversary; now, we're allies thanks to intuitive tools and AI companions which increases my productivity.
