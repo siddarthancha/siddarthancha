@@ -7,12 +7,6 @@ From the flight paths of aeronautics to the cloud paths of AWS, my journey has b
 - 🛩️ Once an Aeronautical Engineer, I found my true calling in the cloud, not the skies.
 - 👨‍💻 Coding was once my adversary; now, we're allies thanks to intuitive tools and AI companions which increases my productivity.
 - 🎓 Master's in Information Assurance led me to the vast and ever-evolving field of Cloud Security.
-  
-## My Interests 🤖
-- 🏡 A simple fascination with smart plugs sparked a full-blown passion for smart home automation.
-- 🎛️ From smart sprinklers to security cameras, my home is a symphony of interconnected devices, all harmonized through code.
-- 📰 I consume the latest in tech and security through prolific reading on Medium and watching innovators on YouTube.
-- 📺 Attuned to the pulse of innovation by following expos like CES, I stay at the cutting edge of smart home tech.
 
 ## Tech Stack
 <!-- https://github.com/Ileriayo/markdown-badges -->
