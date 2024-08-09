@@ -19,8 +19,7 @@ From the flight paths of aeronautics to the cloud paths of AWS, my journey has b
 ## My Values 🔑
 - 🛡️ Security as a priority.
 - 🚀 Embracing automation, whether it's for writing secure code or watering the lawn.
-- 🐾 A fondness for dogs and tech, and a belief in the power of a well-automated home.
-
+- 🐾 A fondness for dogs and tech.
 ## Looking Forward 🔮
 - 📈 While I may not have published articles or spoken at conferences, I'm always absorbing knowledge and honing my skills.
 - 🧠 I'm open to the world of possibilities and opportunities that the future of cloud security holds.
